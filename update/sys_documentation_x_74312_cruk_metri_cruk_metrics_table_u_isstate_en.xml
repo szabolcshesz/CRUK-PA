@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_isstate" label="Is State" language="en" table="x_74312_cruk_metri_cruk_metrics_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_isstate</element>
+            <help/>
+            <hint/>
+            <label>Is State</label>
+            <language>en</language>
+            <name>x_74312_cruk_metri_cruk_metrics_table</name>
+            <plural>Is States</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:17:48</sys_created_on>
+            <sys_id>9f34acd9db63f700048bfabdbf9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Is State</sys_name>
+            <sys_package display_value="CRUK Metrics" source="x_74312_cruk_metri">76f06c15db23f700048bfabdbf9619cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CRUK Metrics">76f06c15db23f700048bfabdbf9619cc</sys_scope>
+            <sys_update_name>sys_documentation_x_74312_cruk_metri_cruk_metrics_table_u_isstate_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:17:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

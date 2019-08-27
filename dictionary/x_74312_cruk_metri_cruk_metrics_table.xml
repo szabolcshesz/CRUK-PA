@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CRUK Metrics Table" max_length="40" name="x_74312_cruk_metri_cruk_metrics_table" type="collection">
+        <element label="Assigned to" max_length="32" name="u_assigned_to" reference="sys_user" type="reference"/>
+        <element label="CR Duration" max_length="50" name="u_crduration" type="string"/>
+        <element label="Duration" max_length="40" name="u_duration" type="integer"/>
+        <element label="Incident" max_length="32" name="u_incident" reference="incident" type="reference"/>
+        <element label="Is State" max_length="40" name="u_isstate" type="boolean"/>
+        <element label="Is Team" max_length="40" name="u_isteam" type="boolean"/>
+        <element label="Is User" max_length="40" name="u_isuser" type="boolean"/>
+        <element label="Person duration" max_length="40" name="u_personduration" type="integer"/>
+        <element label="State" max_length="40" name="u_state" type="string"/>
+        <element label="State duration" max_length="40" name="u_stateduration" type="integer"/>
+        <element label="Stopped" max_length="40" name="u_stopped" type="glide_date_time"/>
+        <element label="Team" max_length="32" name="u_team" reference="sys_user_group" type="reference"/>
+        <element label="Team duration" max_length="40" name="u_teamduration" type="integer"/>
+        <element label="WR duration" max_length="40" name="u_wr_duration" type="glide_duration"/>
+        <index name="index">
+            <element name="u_assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="u_team"/>
+        </index>
+        <index name="index3">
+            <element name="u_incident"/>
+        </index>
+    </element>
+</database>

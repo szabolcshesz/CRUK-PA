@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 14:03:35</sys_created_on>
+        <sys_id>43f02c19db63f700048bfabdbf9619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_74312_cruk_metri_cruk_metrics_table.x_74312_cruk_metri.user</sys_name>
+        <sys_package display_value="CRUK Metrics" source="x_74312_cruk_metri">76f06c15db23f700048bfabdbf9619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRUK Metrics">76f06c15db23f700048bfabdbf9619cc</sys_scope>
+        <sys_security_acl display_value="x_74312_cruk_metri_cruk_metrics_table">83f02c19db63f700048bfabdbf9619d2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_43f02c19db63f700048bfabdbf9619d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 14:03:35</sys_updated_on>
+        <sys_user_role display_value="x_74312_cruk_metri.user" name="x_74312_cruk_metri.user">c7f02c19db63f700048bfabdbf961912</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

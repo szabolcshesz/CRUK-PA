@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_74312_cruk_metri_cruk_metrics_table" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_incident</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>22f42c1ddb63f700048bfabdbf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_state</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>a2f42c1ddb63f700048bfabdbf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_team</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>26f42c1ddb63f700048bfabdbf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assigned_to</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>a6f42c1ddb63f700048bfabdbf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>2af42c1ddb63f700048bfabdbf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_wr_duration</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>aaf42c1ddb63f700048bfabdbf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_stopped</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>2ef42c1ddb63f700048bfabdbf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_isstate</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>aef42c1ddb63f700048bfabdbf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_isteam</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>22f42c1ddb63f700048bfabdbf9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_isuser</element>
+            <list_id display_value="x_74312_cruk_metri_cruk_metrics_table" element="NULL" name="x_74312_cruk_metri_cruk_metrics_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f42c1ddb63f700048bfabdbf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_id>a2f42c1ddb63f700048bfabdbf9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_74312_cruk_metri_cruk_metrics_table</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 14:21:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6f42c1ddb63f700048bfabdbf9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_74312_cruk_metri_cruk_metrics_table</sys_name>
+            <sys_package display_value="CRUK Metrics" source="x_74312_cruk_metri">76f06c15db23f700048bfabdbf9619cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CRUK Metrics">76f06c15db23f700048bfabdbf9619cc</sys_scope>
+            <sys_update_name>sys_ui_list_x_74312_cruk_metri_cruk_metrics_table_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 14:21:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
